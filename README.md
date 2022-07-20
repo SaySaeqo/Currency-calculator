@@ -8,5 +8,5 @@ __HOW TO USE__
 4. Choosing currency or pressing enter when typing starts calculations.
 
   
-__Author__  
+__AUTHOR__  
 Tomasz Piwowski
