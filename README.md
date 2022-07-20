@@ -6,3 +6,7 @@ __HOW TO USE__
 2. Choose currency which written number represents (left select).  
 3. Choose currency you want to calculate value for (right select).
 4. Choosing currency or pressing enter when typing starts calculations.
+
+  
+__Author__  
+Tomasz Piwowski
